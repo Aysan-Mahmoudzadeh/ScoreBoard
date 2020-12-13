@@ -61,7 +61,7 @@ def _delete(player):
         df = df1.drop(select_indices)
         df.to_csv('ScoreBoard.csv', mode='w', index=False)  
     else : 
-        print("\nThis Player does not exists in ScoreBoard") 
+        print("\nThis Player does not exist in ScoreBoard") 
     
 
 def main():
