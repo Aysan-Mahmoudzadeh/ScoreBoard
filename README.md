@@ -4,7 +4,11 @@ This Project has 4 functions
 
 You can select one of three option in the main function
 
-1. Show    2. Add   3. Delete
+1. Show    
+
+2. Add   
+
+3. Delete
 
 If your enter number is not between 1-3, you see the message "The Number is Out of Range"
 
